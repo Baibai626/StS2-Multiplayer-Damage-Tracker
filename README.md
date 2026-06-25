@@ -1,4 +1,4 @@
-# StS2-Multiplayer-Damage-Tracker
+# STS2-Multiplayer-Damage-Tracker
 Multiplayer damage tracker for each stage
 
 本專案為獨立開發之開源遊戲模組（Mod），新增計算傷害之功能，方便對比、優化策略。
